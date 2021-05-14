@@ -1,0 +1,3 @@
+how many elements are not the value 2
+5 elements
+Length will be five and the first 5 elements should be those five elements which are not 2
